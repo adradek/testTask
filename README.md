@@ -29,7 +29,7 @@ For example, you have the following input params:
 ```Ruby
 speeds = [10, 5, 7, 12, 130]
 reliabilities = [3, 6, 8, 9, 10]
-max number = 3
+max_number = 3
 ```
 
 And you've chosen 1st (index 0), 3rd (index 2) and 4th (index 3) machines. Their characteristics are the corresponding values at arrays
