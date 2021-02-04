@@ -4,7 +4,7 @@ Here are 2 problems. Feel free to solve any of them or both of them. The more, t
 
 ## First problem
 
-Your task is to write a method that calculates the max possible quality of the computer cluster. Cluster consists of one or more machines. Your method will take the following params
+Your task is to write a **method that calculates the max possible quality of the computer cluster**. Cluster consists of one or more machines. Your method will take the following params
 
 - array of the computers' `speeds`, e.g. [10, 5, 7, 12, 130]
 - array of the computers' `reliabilities`, e.g. [3, 6, 8, 9, 10] 
