@@ -45,7 +45,7 @@ NB:
 
 ## Second problem
 
-Create a ruby file so that the instructions at the bottom of that give the specified result
+Create a ruby file so that the instructions at the bottom of the file give the specified result
 
 ```Ruby
 # your code here
